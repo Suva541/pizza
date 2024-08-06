@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url('image/pizza1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    max-height: 40vh;
+}
+
+.container-fluid a{
+    font-size: 25px;
+}
+
+.box{
+    margin-top: 80px;
+    margin-left: 100px;
+    color: white;
+}
+
+.box h1{
+    font-family: gabriola ;
+    font-weight: 300;
+    font-size: 70px;
+    color: rgb(107, 207, 87);
+    }
+
+.box h3{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 300;
+    color: rgb(47, 145, 27);
+    }
+
+    .box p{
+        color: rgb(148, 201, 161);
+    }
+
+    .about{
+        margin-top: 360px;
+    }
+    .about h1{
+        font-family: gabriola ;
+        font-weight: 300;
+        font-size: 70px;
+        color: rgb(16, 30, 34);
+    }
+
+   .sof h1{
+    font-family: gabriola ;
+    font-weight: 300;
+    font-size: 70px;
+    color: rgb(3, 30, 48);
+    margin: 40px;
+}
+
+.col{
+    border: 1px solid #000;
+}
+
